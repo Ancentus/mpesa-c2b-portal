@@ -13,9 +13,9 @@
      <li class="nav-item">
       <a class="nav-link content-link" href="dashboard.php?cat=website-setting&subcat=website-menu">MPESA Payments</a>
     </li>
-      <li class="nav-item">
+      <!-- <li class="nav-item">
       <a class="nav-link content-link" href="dashboard.php?cat=website-setting&subcat=website-setting">Initiate Wallet Payment</a>
-    </li>
+    </li> -->
       <!-- <li class="nav-item">
       <a class="nav-link content-link" href="dashboard.php?cat=website-setting&subcat=theme-setting">Theme Setting</a>
     </li> -->
