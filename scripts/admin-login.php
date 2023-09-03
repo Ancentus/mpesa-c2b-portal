@@ -73,7 +73,7 @@ function login($db,$email,$password){
      {
       session_start();
       $_SESSION['email']=$email;
-      header("location:dashboard.php");
+      header("location:payments.php");
      }else
      {
       return "Your password is wrong";
